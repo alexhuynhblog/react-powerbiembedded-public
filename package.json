@@ -12,7 +12,7 @@
     "powerbi-client": "^2.7.5",
     "query-string": "^6.8.1",
     "react": "^16.8.6",
-    "react-adal": "^0.4.24",
+    "react-adal": "^0.5.1",
     "react-bootstrap": "^1.0.0-beta.9",
     "react-dom": "^16.8.6",
     "react-highlight": "^0.12.0",
